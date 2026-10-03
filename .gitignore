@@ -1,0 +1,13 @@
+# 打包產物（exe 請用 GitHub Releases 發佈，不要放進程式碼庫）
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# 執行時產生、含個人檔名與路徑的檔案，絕對不要上傳
+organizer_log_*.csv
+organizer_settings.json
