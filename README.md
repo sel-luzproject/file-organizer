@@ -36,7 +36,7 @@
 
 ### A. 下載 exe（最簡單）
 
-到 [Releases](../../releases) 下載 `檔案整理小幫手.exe`，按兩下即可，不需要安裝 Python。
+到 [Releases](../../releases) 下載 `FileOrganizer.exe`，按兩下即可（開啟後的視窗標題為「檔案整理小幫手」），不需要安裝 Python。
 
 > 第一次開啟若出現「Windows 已保護您的電腦」，這是因為程式沒有付費的程式碼簽章。點「其他資訊」→「仍要執行」即可。你也可以自行檢視原始碼並用 `build.bat` 自己打包。
 
